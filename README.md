@@ -29,5 +29,3 @@ I have many years of positive experience as a remote worker, which implies a com
 I am an American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
 
 http://ownlifeful.com/
-
-![Ashwin Dixit](/public/assets/images/Ashwin_Dixit_small_transparent.png)
