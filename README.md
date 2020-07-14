@@ -26,6 +26,8 @@ My coding experience includes:
 
 I have many years of positive experience as a remote worker, which implies a combination of self-organization, writing skills, and an adaptive mindset. I communicate effectively and deliver results in a timely manner. I love a challenging problem, and quickly learn the tools and technologies needed to implement practical solutions.
 
+During a sabbatical, I designed an algorithm to solve a Graph Theory problem, implemented in Perl.
+
 I am an American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
 
 http://ownlifeful.com/
