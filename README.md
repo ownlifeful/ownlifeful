@@ -30,4 +30,3 @@ During a sabbatical, I designed an algorithm to solve a Graph Theory problem, im
 
 I am an American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
 
-http://ownlifeful.com/
