@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a quality conscious programmer with over 23 years of hands-on experience with a wide range of web technologies. Experienced Coder of Wall Street, Silicon Valley, and Hollywood. A nature loving creature, I take pride in delivering lucid, maintainable code.
+I am a quality conscious programmer with over 24 years of hands-on experience with a wide range of web technologies. Experienced Coder of Wall Street, Silicon Valley, and Hollywood. A nature loving creature, I take pride in delivering lucid, maintainable code.
 
 My coding experience includes:
 + a Municipal Bond Trading system
