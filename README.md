@@ -30,3 +30,12 @@ During a sabbatical, I designed an algorithm to solve a Graph Theory problem, im
 
 I am an American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
 
+Here's a poem I wrote more than a decade ago. It's called: "a prime bug"
+
+    #!perl
+    chomp and print join ',',  grep $_, (map length, split /[a,]/), "\n" while &lt;DATA&gt;;
+    __END__
+    a bug trapped inside
+    a paper lantern, arid
+    aflutter, ablaze
+
