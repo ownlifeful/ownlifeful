@@ -33,7 +33,7 @@ I am an American with a degree in Computer Science. My current interests include
 Here's a poem I wrote more than a decade ago. It's called: "a prime bug"
 
     #!perl
-    chomp and print join ',',  grep $_, (map length, split /[a,]/), "\n" while &lt;DATA&gt;;
+    chomp and print join ',',  grep $_, (map length, split /[a,]/), "\n" while <DATA>;
     __END__
     a bug trapped inside
     a paper lantern, arid
