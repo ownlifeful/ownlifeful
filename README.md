@@ -28,7 +28,7 @@ I have many years of positive experience as a remote worker, which implies a com
 
 During a sabbatical, I designed an algorithm to solve a Graph Theory problem, implemented in Perl.
 
-I am an American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
+I am an Indian-American with a degree in Computer Science. My current interests include electronica, writing sci-fi, and nature photography.
 
 Here's a haiku I wrote more than a decade ago. It's called: "a prime bug"
 
